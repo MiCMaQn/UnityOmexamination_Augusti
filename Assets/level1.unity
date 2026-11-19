@@ -6287,7 +6287,7 @@ GameObject:
   - component: {fileID: 1229089170}
   - component: {fileID: 1229089169}
   m_Layer: 0
-  m_Name: npc
+  m_Name: npc_bluey
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6339,7 +6339,7 @@ MonoBehaviour:
   textBox: {fileID: 562231881}
   nextButton: {fileID: 2069238361}
   dialogue:
-  - hello im a friendly box
+  - hello im a friendly box called Bluey
   - please dont touch that circle being i think somethings wrong with them
   - anyways enjoy existence lol
   onStartDialogue:
